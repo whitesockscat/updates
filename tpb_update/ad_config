@@ -1,0 +1,12 @@
+{
+    "clickToRemoveEnabled": true,
+    "interstitialAdEnabled": true,
+    "adMobRatio": 80,
+    "adMobInterstitialRatio": 80,
+    "adMobRewardRatio": 80,
+    "adMobEnabled": true,
+    "heyzapEnabled": true,
+    "numDetailOpenShowInter": 10,
+    "numMagnetClickShowInter": 3,
+    "intervalRepeatRewardBannerMin": 4
+}
