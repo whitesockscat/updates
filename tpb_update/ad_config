@@ -1,9 +1,9 @@
 {
     "clickToRemoveEnabled": true,
     "interstitialAdEnabled": true,
-    "adMobRatio": 80,
-    "adMobInterstitialRatio": 80,
-    "adMobRewardRatio": 80,
+    "adMobRatio": 10,
+    "adMobInterstitialRatio": 10,
+    "adMobRewardRatio": 10,
     "adMobEnabled": true,
     "heyzapEnabled": true,
     "numDetailOpenShowInter": 10,
